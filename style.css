@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+
+#summary {
+    text-align: left;
+}
+#heading2 {
+    text-align: center;
+}
+html{background-color: darkslategray
+    ;}
+p {
+    color: blanchedalmond;
+}
+h2 {
+    color: #B0926A;
+}
+h1 {
+    color: #CC9544;
+}
+h2{
+font-family: 'Caveat', cursive;
+font-family: 'oswald', sans-serif;
+}
+h1 {
+    font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+}
